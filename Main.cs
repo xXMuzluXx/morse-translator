@@ -1,1 +1,0 @@
-morse.translate("asdasdas")
